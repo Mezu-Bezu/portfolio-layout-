@@ -1,6 +1,6 @@
-# Antoni.de Portfolio Layout Reference
+# Cinematic Portfolio Layout Reference
 
-This is a practical breakdown of the portfolio layout style from `antoni.de`, rewritten as a reference for building a similar but original personal portfolio.
+This is a practical breakdown of a cinematic portfolio layout style, rewritten as a reference for building an original personal portfolio.
 
 ## Core Idea
 
@@ -218,7 +218,7 @@ PHOTO 7
 
 ## About Me Section
 
-This replaces antoni's agency/culture positioning with a personal portfolio section.
+This replaces agency/culture positioning with a personal portfolio section.
 
 Structure:
 
@@ -358,7 +358,7 @@ Recommended final layout order:
 
 ## Technical Notes
 
-The original `antoni.de` site appears to use:
+A comparable agency-style site may use:
 
 - WordPress
 - Elementor
@@ -409,4 +409,4 @@ With:
 
 ## Important Rule
 
-Do not directly copy antoni.de assets, code, names, or exact case structure. Use the same portfolio logic and cinematic rhythm, but make the design, copy, and media your own.
+Do not directly copy another site's assets, code, names, or exact case structure. Use the same portfolio logic and cinematic rhythm, but make the design, copy, and media your own.
