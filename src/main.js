@@ -1,5 +1,3 @@
-import './styles.css';
-
 const body = document.body;
 const loader = document.querySelector('#loader');
 const transitionLayer = document.querySelector('#transitionLayer');
